@@ -1,2 +1,2 @@
 # TempConventer
-Temperature conventer, Electron, React, Web pack
+Temperature conventer, JS, Electron, React, Web pack
